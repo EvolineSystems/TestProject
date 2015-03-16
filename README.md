@@ -1,3 +1,7 @@
 # Coffee Booker
-You can start web app by run "npm start" in console(terminal, command prompt etc.)
-NodeJs must be installed before as well.
+1. run "npm install -g gulp"
+2. run "gulp dev"
+3. run "npm start"
+
+
+[How to install COMPASS(SASS) ?](http://compass-style.org/install/)
